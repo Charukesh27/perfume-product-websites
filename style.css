@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-image: url("images (4).jpeg");
+}
+nav{
+    color: black;
+    padding: 15px;
+}
+
+ul,li,h1{
+    display: inline;
+}
+
+ul{
+    margin-left: 40%;
+}
+
+li{
+    color: black;
+    cursor: pointer;
+}
+
+li:hover{
+    color: white;
+}
+
+input{
+    width: 60%;
+    padding: 15px;
+    }
+
+.searchbar{
+    padding: 15px;
+    text-align: center;
+}
+.searchbar:hover{
+    color: #000;
+}    
+
+.box{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    width: 225px
+    
+    
+}
+
+.box:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.product{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+    
+
+}
+
+.content{
+    color:black;
+    padding: 20px;
+    margin: 5%;
+    margin-top: 5px;
+}
+
+.contactus{
+    color: black;
+    margin: 20px;
+}
+
+p{
+    margin-top: 10px;
+    margin: 20px;
+}
